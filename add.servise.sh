@@ -4,13 +4,13 @@ echo 'Создание собственного скрипта'
 read -p 'Придумайте имя скрипта: ' name
 echo
 echo
-echo 'имя вашего скрипта >>>>>>' $name '<<<<<<'
+echo 'имя вашего скрипта ‼️ ‼️ ‼️ ' $name '‼️ ‼️ ‼️'
 echo
 echo
 echo "если все верно запуститься текстовый редактор, вставте скрипт , сохраните  и закройте редактор" 
 sleep 5
 echo
-echo '#!/bin/bash\n ' >> /var/tmp/$name.sh
+echo '#!/bin/bash\n# Autor http://github.com/Cicadadenis/\n# Скрипт пишем с ‼️ ‼️ ‼️ 4 строки ‼️ ‼️ ‼️' >> /var/tmp/$name.sh
 echo
 gedit /var/tmp/$name.sh
 echo 'Добавимляем права на запуск'
