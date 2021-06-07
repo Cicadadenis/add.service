@@ -14,4 +14,4 @@
   
 ## азработчик
 
-[Autor]"https://github.com/Cicadadenis"
+Autor-https://github.com/Cicadadenis
