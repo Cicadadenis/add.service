@@ -6,7 +6,7 @@
     git clone https://github.com/Cicadadenis/add.service
     cd add.service/
     chmod +x *
-    ./add.service.sh
+    ./add.servise.sh
 
 ## Запуск одной строкой
 
