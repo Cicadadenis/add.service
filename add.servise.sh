@@ -10,7 +10,7 @@ echo
 echo "если все верно запуститься текстовый редактор, вставте скрипт , сохраните  и закройте редактор" 
 sleep 5
 echo
-echo '#!/bin/bash\n' >> /var/tmp/$name.sh
+echo '#!/bin/bash\n ' >> /var/tmp/$name.sh
 echo
 gedit /var/tmp/$name.sh
 echo 'Добавимляем права на запуск'
