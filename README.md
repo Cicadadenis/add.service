@@ -3,9 +3,9 @@
 
 ##Установка и запуск
 
-    git clone https://github.com/Cicadadenis/add.service\
-    cd add.service/\
-    chmod +x *\
+    git clone https://github.com/Cicadadenis/add.service
+    cd add.service/
+    chmod +x *
     ./add.service.sh
 
 ##Запуск одной строкой
