@@ -11,7 +11,7 @@ class bcolors:
     WHITE = '\033[37m'
 
 def logo():
-    print(bcolors.RED + bcolors.BOLD)
+    print(bcolors.YELLOW + bcolors.BOLD)
     print("""
   ______             __     ____ ____ ___ ___
  / ___(_)______ ____/ /__ _|_  /|_  // _ <  /
